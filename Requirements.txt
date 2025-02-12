@@ -1,0 +1,7 @@
+streamlit
+yfinance
+pandas
+datetime
+pathlib
+pandas_ta
+os
